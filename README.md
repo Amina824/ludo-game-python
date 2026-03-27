@@ -50,4 +50,4 @@ This project is a Python implementation of the classic **Ludo board game**, deve
 
 ## 👨‍💻 Author
 
-Your Name
+Amina Bibi
